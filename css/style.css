@@ -3,7 +3,7 @@ body{
   font: 15px/1.5 Arial, Helvetica, sans-serif;
   padding:0;
   margin:0;
-  background-color:#f4f4f4
+  background-color:#f0f5f5
 }
 
 /* Global */
@@ -29,23 +29,23 @@ ul{
 
 .dark{
   padding:15px;
-  background:#35424a;
-  color:#ffffff;
+  background:#f0f5f5;
+  color:#35424a;
   margin-top:10px;
   margin-bottom:10px;
 }
 /*Header */
 header{
-  background:#35424a;
-  color:#ffffff;
+  background:#f0f5f5;
+  color:#35424a;
   padding-top:30px;
   min-height:70px;
-  border-bottom:#e8491d 3px solid;
+  border-bottom:#000000 3px solid;
 }
 
 /*Links inside header */
 header a{
-  color: #ffffff;
+  color: #35424a;
   text-decoration: none;
   text-transform: uppercase;
   font-size: 16px;
@@ -71,7 +71,7 @@ header nav{
 }
 
 header .highlight, header .current a{
-  color:#e8491d;
+  color:#f0f5f5;
   font-weight:bold;
 }
 
@@ -83,9 +83,9 @@ header a.hover{
 /*Showcase */
 #showcase{
   min-height: 400px;
-  background: #000000;/*url('../img/showcase.jpg') no-repeat 0 -400px;*/
+  background: #f0f5f5;/*url('../img/showcase.jpg') no-repeat 0 -400px;*/
   text-align: center;
-  color: #ffffff;
+  color: #35424a;
 }
 
 #showcase h1{
@@ -101,8 +101,8 @@ header a.hover{
 /*Newsletter */
 #newsletter{
   padding: 15px;
-  color: #ffffff;
-  background: #35424a;
+  color: #35424a;
+  background: #f0f5f5;
 }
 
 #newsletter h1{
@@ -160,14 +160,14 @@ ul#services li{
   padding:20px;
   border:#cccccc solid 1px;
   margin-bottom: 5px;
-  background: #e6e6e6;
+  background: #f0f5f5;
 }
 
 footer{
   padding:20px;
   margin-top:20px;
-  color:#ffffff;
-  background-color:#e8491d;
+  color:#35424a;
+  background-color:#f0f5f5;
   text-align:center;
 }
 
