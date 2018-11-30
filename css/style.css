@@ -24,7 +24,7 @@ ul{
   border:0;
   padding-left:20px;
   padding-right:20px;
-  color:#35424a;
+  color:#f0f5f5;
 }
 
 .dark{
@@ -71,7 +71,7 @@ header nav{
 }
 
 header .highlight, header .current a{
-  color:#f0f5f5;
+  color:#e8491d;
   font-weight:bold;
 }
 
